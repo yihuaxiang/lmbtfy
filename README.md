@@ -7,17 +7,17 @@
 <h3 align="center"> 「Let Me Baidu That For You」</h3>
 
 <p align="center">
-<a href="https://github.com/mengkunsoft/lmbtfy/stargazers" target="_blank">
-<img src="https://img.shields.io/github/stars/mengkunsoft/lmbtfy.svg?style=flat-square" alt="GitHub stars">
+<a href="https://github.com/yihuaxiang/lmbtfy/stargazers" target="_blank">
+<img src="https://img.shields.io/github/stars/yihuaxiang/lmbtfy.svg?style=flat-square" alt="GitHub stars">
 </a> 
-<a href="https://github.com/mengkunsoft/lmbtfy/network" target="_blank">
-<img src="https://img.shields.io/github/forks/mengkunsoft/lmbtfy.svg?style=flat-square" alt="GitHub forks">
+<a href="https://github.com/yihuaxiang/lmbtfy/network" target="_blank">
+<img src="https://img.shields.io/github/forks/yihuaxiang/lmbtfy.svg?style=flat-square" alt="GitHub forks">
 </a> 
-<a href="https://github.com/mengkunsoft/lmbtfy/issues" target="_blank">
-<img src="https://img.shields.io/github/issues/mengkunsoft/lmbtfy.svg?style=flat-square" alt="GitHub issues">
+<a href="https://github.com/yihuaxiang/lmbtfy/issues" target="_blank">
+<img src="https://img.shields.io/github/issues/yihuaxiang/lmbtfy.svg?style=flat-square" alt="GitHub issues">
 </a> 
-<a href="https://github.com/mengkunsoft/lmbtfy/blob/master/LICENSE" target="_blank">
-<img src="https://img.shields.io/github/license/mengkunsoft/lmbtfy.svg?style=flat-square" alt="GitHub license">
+<a href="https://github.com/yihuaxiang/lmbtfy/blob/master/LICENSE" target="_blank">
+<img src="https://img.shields.io/github/license/yihuaxiang/lmbtfy.svg?style=flat-square" alt="GitHub license">
 </a>
 </p>
 
